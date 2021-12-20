@@ -7,21 +7,23 @@
  💻 Today my biggest interest is Web3 Applications powered with blockchain technology. 
  I love to design robust and optimized backend services with the focus on perfomances and scalability.
  
- On my Github repos you can find decentralized as well as centralized apps created with Java and Spring ecosystem as well as frontends designed and created with React library.
+:octocat: In my Github repos you can find web3 decentralized apps as well as centralized apps created with Java and Spring ecosystem as well as frontends designed and created with React library.
  
  ***
  
- ### Projects:📱
+ ### Projects 📱
+ 
+  ***Following list represents some of the projects you can find in my repos:***
    
-  #### 1. Smart banking app - ***Application that mocks todays internet banking apps.***
+  - #### Smart banking app - ***Application that mocks todays internet banking apps.***
   
-  #### 2. Agile board - ***Mockup application of Jira board.***
+  - #### Agile board - ***Mockup application of Jira board.***
   
-  #### 3. Marvel search box - ***Simple application to search marvel characters from Marvel API.***
+  - #### Marvel search box - ***Simple application to search marvel characters from Marvel API.***
 
 ***
 
- ### Socials: 📫 
+ ### Socials 📫 
    - ***My LinkedIn profile:*** https://www.linkedin.com/in/marko-perajica/ 
    - ***My twitter:*** https://twitter.com/marko_perajica
    - ***My Gmail:*** markoperajicca@gmail.com 
