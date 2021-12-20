@@ -1,4 +1,4 @@
- Hello 👋, my name is Marko.
+  Hello 👋, my name is Marko.
  
  👀 If you don't mind taking a minute or two I would like to introduce myself 😅. Ever since childhood computers 💻 have been my passion. 
  That passion was passed to me by my dad 👱🏻‍♂️ at the start. At that time most of my interests in computers were hardware. 
@@ -9,7 +9,7 @@
  
  On my Github repos you can find decentralized as well as centralized apps created with Java and Spring ecosystem as well as frontends designed and created with React library.
  
- ### Projects: 
+ ### Projects:📱
    
   #### 1. Smart banking app - ***Application that mocks todays internet banking apps.***
   
