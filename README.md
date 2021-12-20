@@ -9,6 +9,8 @@
  
  On my Github repos you can find decentralized as well as centralized apps created with Java and Spring ecosystem as well as frontends designed and created with React library.
  
+ ***
+ 
  ### Projects:📱
    
   #### 1. Smart banking app - ***Application that mocks todays internet banking apps.***
