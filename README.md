@@ -19,7 +19,7 @@
   
   - #### Agile board - ***Mockup application of Jira board.***
   
-  - #### Marvel search box - ***Simple application to search marvel characters from Marvel API.***
+  - #### Ethernaut Attacks - ***Solutions for OpenZepplin Ethernaut levels***
 
 ***
 
